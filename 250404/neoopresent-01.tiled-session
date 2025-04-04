@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "slide01.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "slide01.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1294,
+                "y": 886
+            }
+        },
+        "slide01.json#00-collides": {
+            "scaleInDock": 1
+        },
+        "slide01.json#Base": {
+            "scaleInDock": 0.25
+        },
+        "slide01.json#Slide01": {
+            "scaleInDock": 0.015625
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "slide01.json"
+    ],
+    "project": "neoopresent-01.tiled-project",
+    "recentFiles": [
+        "slide01.json"
+    ],
+    "tileset.embedInMap": true
+}
