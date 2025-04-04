@@ -10,10 +10,10 @@
     "fileStates": {
         "slide01.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1294,
-                "y": 886
+                "x": 1540,
+                "y": 826
             }
         },
         "slide01.json#00-collides": {
@@ -24,6 +24,23 @@
         },
         "slide01.json#Slide01": {
             "scaleInDock": 0.015625
+        },
+        "slide02.json": {
+            "scale": 0.5985828488372092,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1757.4843683603472,
+                "y": 641.5152067018757
+            }
+        },
+        "slide02.json#00-collides": {
+            "scaleInDock": 1
+        },
+        "slide02.json#Base": {
+            "scaleInDock": 1
+        },
+        "slide02.json#Slide01": {
+            "scaleInDock": 1
         }
     },
     "map.height": 51,
