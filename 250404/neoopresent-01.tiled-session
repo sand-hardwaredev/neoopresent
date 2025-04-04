@@ -27,14 +27,14 @@
             "scaleInDock": 0.25
         },
         "slide01.json#Slide01": {
-            "scaleInDock": 0.015625
+            "scaleInDock": 0.125
         },
         "slide02.json": {
-            "scale": 0.33,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1900,
-                "y": 436.36363636363626
+                "x": 1140,
+                "y": 792
             }
         },
         "slide02.json#00-collides": {
@@ -45,6 +45,12 @@
         },
         "slide02.json#Slide01": {
             "scaleInDock": 1
+        },
+        "slide02.json#Slide02": {
+            "scaleInDock": 1
+        },
+        "slide02.json#Slide02-Overlay": {
+            "scaleInDock": 1
         }
     },
     "map.height": 51,
@@ -54,6 +60,7 @@
         "slide01.json"
     ],
     "project": "neoopresent-01.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "slide01.json"
     ],
