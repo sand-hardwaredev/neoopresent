@@ -8,12 +8,16 @@
         "."
     ],
     "fileStates": {
+        "": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
         "slide01.json": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1540,
-                "y": 826
+                "x": 1548,
+                "y": 800
             }
         },
         "slide01.json#00-collides": {
@@ -26,11 +30,11 @@
             "scaleInDock": 0.015625
         },
         "slide02.json": {
-            "scale": 0.5985828488372092,
-            "selectedLayer": 4,
+            "scale": 0.33,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1757.4843683603472,
-                "y": 641.5152067018757
+                "x": 1896.969696969697,
+                "y": 257.57575757575773
             }
         },
         "slide02.json#00-collides": {
