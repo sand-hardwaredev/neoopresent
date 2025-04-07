@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "slide01.json",
+    "activeFile": "slide04.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -30,8 +30,8 @@
             "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1584,
-                "y": 1076
+                "x": 1377,
+                "y": 863
             }
         },
         "slide01.json#00-collides": {
@@ -44,11 +44,11 @@
             "scaleInDock": 0.125
         },
         "slide02.json": {
-            "scale": 2,
+            "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 2265.5,
-                "y": 823.5
+                "x": 1364,
+                "y": 865
             }
         },
         "slide02.json#00-collides": {
@@ -67,11 +67,11 @@
             "scaleInDock": 1
         },
         "slide03.json": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1222.6666666666665,
-                "y": 541.3333333333334
+                "x": 1356,
+                "y": 785
             }
         },
         "slide03.json#00-collides": {
@@ -81,11 +81,11 @@
             "scaleInDock": 1
         },
         "slide04.json": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1670.6666666666667,
-                "y": 688
+                "x": 1336,
+                "y": 668
             }
         },
         "slide04.json#00-collides": {
@@ -93,18 +93,38 @@
         },
         "slide04.json#Slide04": {
             "scaleInDock": 1
+        },
+        "slide05.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1809.3333333333335,
+                "y": 708
+            }
+        },
+        "slide05.json#00-collides": {
+            "scaleInDock": 1
+        },
+        "slide05.json#Slide05": {
+            "scaleInDock": 1
         }
     },
     "map.height": 51,
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "slide01.json"
+        "slide01.json",
+        "slide04.json",
+        "slide02.json",
+        "slide03.json"
     ],
     "project": "neoopresent-01.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "slide01.json"
+        "slide01.json",
+        "slide03.json",
+        "slide02.json",
+        "slide04.json"
     ],
     "tileset.embedInMap": true
 }
