@@ -57,6 +57,8 @@
          "height":51,
          "id":2,
          "name":"start",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "properties":[
                 {
@@ -189,6 +191,8 @@
          "height":51,
          "id":3,
          "name":"start-from-5",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -251,6 +255,8 @@
          "height":51,
          "id":4,
          "name":"exit-to-3",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "properties":[
                 {
@@ -319,6 +325,8 @@
          "height":51,
          "id":5,
          "name":"exit-to-5",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "properties":[
                 {
