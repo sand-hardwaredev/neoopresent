@@ -192,7 +192,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/exec-bldg\/lobby.json"
+                 "value":"ihc-executive-building\/lobby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -254,7 +254,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":6,
-         "name":"start-from-sec",
+         "name":"start-from-exec-bldg",
          "opacity":1,
          "properties":[
                 {
@@ -364,11 +364,11 @@
         {
          "columns":91,
          "firstgid":577,
-         "image":"exec-hub.jpg",
+         "image":"park.jpg",
          "imageheight":1632,
          "imagewidth":2912,
          "margin":0,
-         "name":"exec-hub",
+         "name":"park",
          "spacing":0,
          "tilecount":4641,
          "tileheight":32,

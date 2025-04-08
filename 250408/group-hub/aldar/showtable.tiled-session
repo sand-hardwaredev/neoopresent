@@ -1,0 +1,114 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#meeting_room": {
+            "scaleInDock": 1
+        },
+        "lobby.json": {
+            "scale": 0.4231284340659341,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1425.0992168161342,
+                "y": 782.2683926469991
+            }
+        },
+        "lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "lobby.json#lobby": {
+            "scaleInDock": 1
+        },
+        "lounge.json": {
+            "scale": 0.41402889784946234,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1425.0213042243236,
+                "y": 784.9693624964493
+            }
+        },
+        "lounge.json#Collides": {
+            "scaleInDock": 1
+        },
+        "lounge.json#lounge": {
+            "scaleInDock": 1
+        },
+        "lounge.json#showroom": {
+            "scaleInDock": 1
+        },
+        "meeting_room.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1787.3333333333335,
+                "y": 1081.3333333333333
+            }
+        },
+        "meeting_room.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "meeting_room.json#meeting_room": {
+            "scaleInDock": 1
+        },
+        "showroom.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1422.7272727272725,
+                "y": 784.8484848484848
+            }
+        },
+        "showroom.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showroom.json#showroom": {
+            "scaleInDock": 1
+        },
+        "showtable.json": {
+            "scale": 0.4231284340659341,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1457.0044231627642,
+                "y": 815.3552733027635
+            }
+        },
+        "showtable.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "showtable.json#lounge": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+    ],
+    "project": "showtable.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "showroom.json",
+        "meeting_room.json",
+        "lounge.json",
+        "lobby.json",
+        "showtable.json"
+    ],
+    "tileset.embedInMap": true
+}
