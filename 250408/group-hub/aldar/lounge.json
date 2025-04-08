@@ -124,7 +124,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"meeting_room.json#start_from_lounge"
+                 "value":"meeting-room.json#start_from_lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
