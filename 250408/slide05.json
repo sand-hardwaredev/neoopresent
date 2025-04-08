@@ -268,7 +268,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"group-hub\/park.json"
+                 "value":"group-hub\/group-park.json"
                 }],
          "type":"tilelayer",
          "visible":true,
