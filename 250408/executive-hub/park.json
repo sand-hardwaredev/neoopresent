@@ -124,7 +124,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"slide05.json#start-from-exec"
+                 "value":"..\/slide05.json#start-from-exec"
                 }],
          "type":"tilelayer",
          "visible":true,
