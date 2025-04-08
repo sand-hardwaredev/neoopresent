@@ -1,0 +1,94 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "secretary.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1424.242424242424,
+                "y": 781.8181818181819
+            }
+        },
+        "lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lobby.json#lobby edited": {
+            "scaleInDock": 1
+        },
+        "meeting.json": {
+            "scale": 0.4224759615384615,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1424.9331436699858,
+                "y": 783.4765291607397
+            }
+        },
+        "meeting.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "meeting.json#meeting room edited": {
+            "scaleInDock": 1
+        },
+        "office1.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1494,
+                "y": 1229.3333333333333
+            }
+        },
+        "office1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office1.json#executive office A": {
+            "scaleInDock": 1
+        },
+        "secretary.json": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1434.8484848484848,
+                "y": 1003.0303030303032
+            }
+        },
+        "secretary.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "secretary.json#Secretary Lobby Edited": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/USER/Desktop/jov/lightmodel",
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "lobby.json",
+        "meeting.json",
+        "office1.json",
+        "secretary.json"
+    ],
+    "project": "exec.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "lobby.json",
+        "meeting.json",
+        "office1.json",
+        "secretary.json"
+    ],
+    "tileset.embedInMap": true
+}
